@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/596339188014776328" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
   </a>
