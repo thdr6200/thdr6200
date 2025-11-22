@@ -11,8 +11,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=darkred&logoColor=white&labelColor=&style=flat" height="50" alt="tryhackme logo"  />
+  <a href="https://discord.com/users/596339188014776328" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/thdr6200" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=darkred&logoColor=white&labelColor=&style=flat" height="50" alt="tryhackme logo"  />
+  </a>
   <a href="mailto:thdr6200@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="50" alt="gmail logo"  />
   </a>
