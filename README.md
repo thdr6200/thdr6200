@@ -30,10 +30,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/l5k8y7k.png"  />
-
-###
-
 <h1 align="left">💻 Technologies:</h1>
 
 ###
