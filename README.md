@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Autodidact Python developer<br>• Self-taught ethical hacker (TryHackMe, HackTheBox)<br>• Open-source projects & tooling<br>• Learning offensive security & secure coding practices</p>
+<p align="left">Autodidact Python developer<br>• Learning cybersecurity (TryHackMe, HackTheBox)<br>• Passionate about open-source projects</p>
 
 ###
 
